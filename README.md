@@ -1,4 +1,4 @@
- RecycleRatios
+# RecycleRatios
 A suite of Factorio mods that allow you to specify the percentage return of recipe ingredients that can be recovered in my Recycling Machines mod.
 
 In Factorio is not possible to change the contents of recipes whilst the world is running. It's only possible when a new world is being generated, or an existing world is loaded.
